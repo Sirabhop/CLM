@@ -1,3 +1,3 @@
 # CLM
 Customer Lifetime Management
-![Data Pipeline](https://chula-my.sharepoint.com/:i:/g/personal/siraphop_san_student_chula_ac_th/ETuuHavl5PtLv4TGMeh_RD4BgyOkMbV81PzBuBzM2_G1-w)
+![Data Pipeline](https://drive.google.com/file/d/1xjdlWZDO_7814I3ONP-IiV-o3-bhX3ss/view?usp=sharing)
